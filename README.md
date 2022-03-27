@@ -2,7 +2,7 @@
 - 👀 I’m interested in JS
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on building webpages and front-end designing
-- 📫 How to reach me: ...
+- 📫 How to reach me: evangaobusinessmail@gmail.com
 
 <!---
 Verviam/Verviam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
