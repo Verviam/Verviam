@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Verviam
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python, HTML, CSS, and JS
+- 🌱 I’m currently learning Python, HTML, CSS, and JS
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me gaoevan37@gmail.com
 
