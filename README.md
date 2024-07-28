@@ -1,6 +1,6 @@
 
 **👋 Hi, I’m Evan Gao**
-- ⚒️ I’m currently working on: Personal Portfolio and DreamyUni
+- ⚒️ I’m currently working on: Personal Portfolio and Senator Volunteer Tracker and BetterRussian and DreamyUni
 - 🌱I'm currently learning React.js
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me gaoevan37@gmail.com
