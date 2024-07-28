@@ -6,7 +6,7 @@
 - 📫 How to reach me gaoevan37@gmail.com
 
 **Existing Skills --> In Progress**
-- Python, Javascript, Vue, Vite, Supabase, Firebase, React
+- Python, Javascript, Vue.js, Vite.js, Typescript, Supabase, Firebase, React.js, Nuxt.js, Next.js, 
 <!---
 Verviam/Verviam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
