@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Verviam
-- 👀 I’m interested in Python, HTML, CSS, and JS
-- 🌱 I’m currently learning Python, HTML, CSS, and JS
+**- 👋 Hi, I’m Evan Gao**
+- ⚒️ I’m currently working on: Personal Portfolio
+- 🌱I'm currently learning React.js
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me gaoevan37@gmail.com
 
