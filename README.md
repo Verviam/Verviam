@@ -1,6 +1,6 @@
 
 **👋 Hi, I’m Evan Gao**
-- ⚒️ I’m currently working on: Opportuniteens, Prompt Engine, Pitch Lab
+- ⚒️ I’m currently working on: Opportuniteens, PromptFection, Pitch Lab
 - 🌱I'm currently learning React.js and Next.js
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me gaoevan37@gmail.com
