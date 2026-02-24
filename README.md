@@ -3,8 +3,9 @@
 I build products and systems at the intersection of software, growth, and execution.
 
 🔧 What I’m working on
-• Online Growth Suite — building conversion-focused websites and growth systems for service businesses & clinics
-• SuperLinkedIn — a tool to help founders and consultants understand their audience and grow on LinkedIn (relaunching)
+
+- Online Growth Suite — building conversion-focused websites and growth systems for service businesses & clinics
+- SuperLinkedIn — a tool to help founders and consultants understand their audience and grow on LinkedIn
 
 📍 Currently based in Boston  
 📫 Reach me: gaoevan37@gmail.com
