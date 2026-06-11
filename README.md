@@ -4,9 +4,6 @@
 
 Brooklyn-born, Boston-based.
 
-Building **[Supret](https://supret.ai)** — an AI agent for founders, consultants, and ghostwriters to write for their audience and predict content performance on LinkedIn.
-
-Also building **Online Growth Suite** — Apple Wallet digital loyalty cards for businesses.
 
 ---
 
